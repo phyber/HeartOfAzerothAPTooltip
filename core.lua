@@ -1,5 +1,6 @@
 local HEARTOFAZEROTH_ITEMID = 158075
 local L_APINFO
+local L_APPERCENT
 do
     local locale = GetLocale()
     if locale == "enUS" then
