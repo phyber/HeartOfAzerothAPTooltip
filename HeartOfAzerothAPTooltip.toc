@@ -1,4 +1,4 @@
-## Interface: 80205-1
+## Interface: 80205
 ## Title: HeartOfAzerothAPTooltip
 ## Author: phyber
 ## Notes: Adds Heart of Azeroth AP to the item's tooltip
