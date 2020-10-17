@@ -13,7 +13,8 @@ end
 local ColourWrapper
 do
     -- These colour constants are located within the FrameXML Constants.lua
-    local rgb = BAG_ITEM_QUALITY_COLORS[LE_ITEM_QUALITY_ARTIFACT]
+    local itemQuality = Enum.ItemQuality
+    local rgb = BAG_ITEM_QUALITY_COLORS[itemQuality.Artifact]
     local colour = CreateColor(rgb.r, rgb.g, rgb.b)
 
     ColourWrapper = function(text)
