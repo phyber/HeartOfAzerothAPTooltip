@@ -1,4 +1,4 @@
-## Interface: 90001
+## Interface: 100002
 ## Title: HeartOfAzerothAPTooltip
 ## Author: phyber
 ## Notes: Adds Heart of Azeroth AP to the item's tooltip
